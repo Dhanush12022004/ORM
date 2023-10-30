@@ -45,6 +45,8 @@ class Playeradmin(admin.ModelAdmin):
 
 ![Alt text](<ex2output.png>)
 
+![image](https://github.com/Dhanush12022004/ORM/assets/128135558/6a50eb06-7d88-41d5-8218-2a2189b60a6c)
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
