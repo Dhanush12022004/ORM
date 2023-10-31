@@ -43,7 +43,8 @@ class Playeradmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Alt text](<ex2output.png>)
+![image](https://github.com/Dhanush12022004/ORM/assets/128135558/097b2cee-6a43-46d0-9676-7dbba45b1671)
+
 
 ![image](https://github.com/Dhanush12022004/ORM/assets/128135558/6a50eb06-7d88-41d5-8218-2a2189b60a6c)
 
