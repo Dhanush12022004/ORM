@@ -27,7 +27,7 @@ from .models import football_Player,Playeradmin
 admin.site.register(football_Player,Playeradmin)
 
 ```
-##models.py:
+## models.py:
 ```
 from django.db import models
 from django.contrib import admin
